@@ -28,7 +28,7 @@
 
 ## 🧱 Architecture Overview
 
-![Image](OPENINSIGHTS ARCHITECTURE.jpg)
+![Image](archi.jpg)
 
 📂 Implementation
 Backend (Node.js + Express)
