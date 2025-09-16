@@ -28,12 +28,7 @@
 
 ## 🧱 Architecture Overview
 
-```plaintext
-Power BI API --> Node.js/Express --> React Frontend
-      ▲                ▲                 ▲
-Real-time Data     WebSocket         Chart.js, ECharts
-(Backend Push)     (Socket.IO)       Dynamic UI
-```
+![Image](OPENINSIGHTS ARCHITECTURE.jpg)
 
 📂 Implementation
 Backend (Node.js + Express)
